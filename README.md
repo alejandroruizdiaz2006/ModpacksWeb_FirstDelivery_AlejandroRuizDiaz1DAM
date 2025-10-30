@@ -12,6 +12,7 @@ Thanks for helping me in this process to:
 -My teacher Tiburcio
 -Some AIs such as Copilot and ChatGPT for the texts
 -Some videos on YouTube of how to use media queries right
+-I´ve take ideas from this page: https://dribbble.com/shots/26048246-Playground-web-interaction
 
 ## Authors
 -Alejandro Ruiz Díaz 1ºDAM-T
